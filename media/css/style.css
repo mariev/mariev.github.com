@@ -707,9 +707,10 @@ input[type="submit"]:hover { cursor: pointer }
 }
 .home .hentry, .archive .hentry {
 	float: left;
-	width: 23.40425531914894%;
+	/*width: 23.40425531914894%;*/
+	width: 22.975%;
 	height: 150px;
-	margin: 0 2.127659574468085% 20px 0;
+	margin:  0  0 20px 2.127659574468085%;
 	position: relative;
 	overflow: hidden;
 }
