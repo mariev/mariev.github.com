@@ -517,7 +517,6 @@ input[type="submit"]:hover { cursor: pointer }
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
-  font-style: italic;
 }
 #content, .singular-page.page-template-fullwidth #content {
 	float: left;
