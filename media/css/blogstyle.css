@@ -212,12 +212,36 @@ ol{
     opacity:.5;
 }
 
-#maintile {
+.maintile {
 width:300px; 
 margin:5px; 
 padding:19px;
 float:left;
 }
+
+.smalltile {
+width:150px; 
+margin:5px; 
+padding:15px;
+float:left;}
+
+.maintile a, .smalltile a{
+    text-decoration:none;
+    color:black;
+}
+
+.maintile:hover, .smalltile:hover{
+    background-color:#eee;
+}
+
+
+
+
+
+
+
+
+
 
 
 
