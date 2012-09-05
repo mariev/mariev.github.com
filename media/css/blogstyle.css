@@ -2,12 +2,8 @@ body {
   padding-top: 30px;
   padding-bottom:30px;
   margin:auto;
-  background-image:url('http://mariev.net/media/images/TT16s.jpg');
-  background-repeat:no-repeat;
-  -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+  background-image:url('http://mariev.net/media/images/TT16s.png');
+
 }
 
 .nav {
@@ -224,7 +220,7 @@ width:20%;
 margin:0px; 
 padding:2%;
 float:left;
-min-height:200px}
+min-height:150px}
 
 .maintile a, .smalltile a{
     text-decoration:none;
