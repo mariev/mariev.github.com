@@ -212,7 +212,12 @@ ol{
     opacity:.5;
 }
 
-
+#maintile {
+width:300px; 
+margin:5px; 
+padding:19px;
+float:left;
+}
 
 
 
