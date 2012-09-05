@@ -210,17 +210,17 @@ ol{
 
 .maintile {
 width:40%; 
-margin:5px; 
 padding:19px;
 float:left;
+height:310px;
 }
 
 .smalltile {
 width:20%; 
 margin:0px; 
-padding:2%;
+padding:19px;
 float:left;
-min-height:150px}
+max-height: 140px;}
 
 .maintile a, .smalltile a{
     text-decoration:none;
@@ -231,7 +231,13 @@ min-height:150px}
     background-color:#eee;
 }
 
+.maintile h1, .smalltile h1{
+    height:2em;
+ }
 
+.maintile img{
+    max-height:275px;
+}
 
 
 
