@@ -43,7 +43,7 @@ body {
   
 }
 
-.nav a, a:active{
+.nav a, .nav a:active{
   text-decoration: none;
   padding:10px;
   color: black;
@@ -91,7 +91,7 @@ body {
  height:1.2em;
 }
 
-.connect a, .connect a:link, .connect a:hover{
+.connect a, .connect a:link, .connect a:hover, .connect a:active{
     color:white;
     text-decoration:none;
     font-size:.7em;
