@@ -21,7 +21,7 @@ displacement (disp), rear axle ratio (drat) and 1/4 mile time (qsec) </figcaptio
 
 <h2>Hammock </h2>
 Hammock plots are similar to PCPs in the ability to display multiple variables as vertical axes, but with application to categorical data.
-The vertical axes are shown as stacked bar charts capturing the proportion of observations for each category. Ribbons connect observation pairs, with the ribbon thickness indicating the relative number of observations for that pair.
+The vertical axes are shown as <b><i>stacked bar charts capturing the proportion of observations for each category. Ribbons connect observation pairs, with the ribbon thickness indicating the relative number of observations for that pair</i></b>.
 
 
 <div style="width:75%;margin:auto;">
@@ -33,7 +33,8 @@ number of carbuerators (carb) </figcaption>
 </div><br><br>
 
 <h2>Parallel Sets</h2>
-Parallel sets shows ribbons intersecting an axis in an ordered manner, instead of meeting at a central node for a single variable category.
+Parallel sets are similar to PCPs in the ability to display multiple variables as vertical axes, but with application to categorical data.
+The vertical axes are shown as stacked bar charts capturing the proportion of observations for each category. Ribbons connect observation pairs, with the ribbon thickness indicating the relative number of observations for that pair. <b><i>Ribbons intersect an axis in an ordered manner</i></b>.
 
 
 <div style="width:75%;margin:auto;">
@@ -47,7 +48,8 @@ number of carbuerators (carb) </figcaption>
 
 
 <h2>Common angles</h2>
-Common angles show ribbons intersecting an axis in an ordered manner and with an offset.
+Common angles are similar to PCPs in the ability to display multiple variables as vertical axes, but with application to categorical data.
+The vertical axes are shown as stacked bar charts capturing the proportion of observations for each category. Ribbons connect observation pairs, with the ribbon thickness indicating the relative number of observations for that pair. Ribbons intersect an axis in an ordered manner and <b><i>with an offset</i></b>.
 
 <div style="width:75%;margin:auto;">
 <figure>
