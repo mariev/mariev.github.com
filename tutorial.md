@@ -59,4 +59,16 @@ number of carbuerators (carb) </figcaption>
 </figure>
 </div><br><br>
 
+
+<h2>Adjusted angles</h2>
+Adjusted angles are similar to PCPs in the ability to display multiple variables as vertical axes, but with application to categorical data.
+The vertical axes are shown as stacked bar charts capturing the proportion of observations for each category. Ribbons connect observation pairs, with the ribbon thickness indicating the relative number of observations for that pair. Ribbons intersect an axis in an ordered manner and with an offset. <b><i>An additional adjustment is made to keep thickness of a single ribbon consistent across the display</i></b>.
+
+<div style="width:75%;margin:auto;">
+<figure>
+<a href = "media/images/mtcars_aa.png"><img src = 'media/images/mtcars_ca.png'  width = 100% /></a>
+<figcaption>Hammock plot of mtcars dataset, variables: number of cylinders (cyl), number of gears (gear), auto or manual transmission (am),
+number of carbuerators (carb) </figcaption>
+</figure>
+</div><br><br>
 </div>
