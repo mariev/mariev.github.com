@@ -373,6 +373,7 @@ height:310px;
    display: block;
    position: relative;
    width: 100%;
+   border-style: none;
 }
 
 .main img {
