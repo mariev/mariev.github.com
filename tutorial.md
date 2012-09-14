@@ -54,7 +54,7 @@ The vertical axes are shown as stacked bar charts capturing the proportion of ob
 <div style="width:75%;margin:auto;">
 <figure>
 <a href = "media/images/mtcars_ca.png"><img src = 'media/images/mtcars_ca.png'  width = 100% /></a>
-<figcaption>Hammock plot of mtcars dataset, variables: number of cylinders (cyl), number of gears (gear), auto or manual transmission (am),
+<figcaption>Common angle plot of mtcars dataset, variables: number of cylinders (cyl), number of gears (gear), auto or manual transmission (am),
 number of carbuerators (carb) </figcaption>
 </figure>
 </div><br><br>
@@ -67,7 +67,7 @@ The vertical axes are shown as stacked bar charts capturing the proportion of ob
 <div style="width:75%;margin:auto;">
 <figure>
 <a href = "media/images/mtcars_aa.png"><img src = 'media/images/mtcars_aa.png'  width = 100% /></a>
-<figcaption>Hammock plot of mtcars dataset, variables: number of cylinders (cyl), number of gears (gear), auto or manual transmission (am),
+<figcaption>Adjusted angle plot of mtcars dataset, variables: number of cylinders (cyl), number of gears (gear), auto or manual transmission (am),
 number of carbuerators (carb) </figcaption>
 </figure>
 </div><br><br>
