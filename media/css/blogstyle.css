@@ -16,8 +16,8 @@ body {
   font-weight:bold;
   
   float:left;
-  padding-left:2.5%;
-  padding-right:2.5%;
+  padding-left:1.5%;
+  padding-right:1.5%;
 }
 
 .nav ul{
@@ -78,15 +78,15 @@ body {
  font-family: Jura, Helvetica, sans-serif;
 
  padding:0; 
- font-size:1.2em;
+ font-size:1em;
  width:70%;
 
- margin:0px 0px 0px 350px;
+ margin:0px 0px 0px 30%;
  height:1.2em;
 }
 
 .connect a, .connect a:link, .connect a:hover, .connect a:active{
-    color:white;
+    color:rgb(150,150,150);
     text-decoration:none;
     font-size:.7em;
 
@@ -95,6 +95,7 @@ body {
 
 .connect{
     width:100%;
+    float:left;
 
 }
 
