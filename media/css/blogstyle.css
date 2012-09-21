@@ -61,6 +61,14 @@ body {
   line-height:125%;
 }
 
+.brand2 p{
+  font-family: 'Rock Salt';
+  font-size: .5em;
+  margin-left: 2.5%;
+  margin-top:0;
+  margin-bottom:10px;
+}
+
 
 
 .connect li{
@@ -69,8 +77,8 @@ body {
   font-weight:bold;
 
   float:left;
-  margin-right: 1%;
-  margin-left:1%;
+  margin-right: 2%;
+  margin-left:2%;
 }
 
 .connect ul{
