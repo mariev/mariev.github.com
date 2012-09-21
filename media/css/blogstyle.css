@@ -180,17 +180,17 @@ ol{
 }
 
 #nav_container{
-  width:60%;
+  width:80%;
   float:left;
   height:125px;}
   
-#nav_accent{
+/*#nav_accent{
     width:20%;
     float:left;
     height:125px;
     overflow:hidden;
     
-}
+}*/
 #content_column{
   clear:left;
   float:left;
