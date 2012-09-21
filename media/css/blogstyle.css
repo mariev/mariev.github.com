@@ -169,13 +169,22 @@ ol{
     margin:0px auto 0px auto;
     min-width:975px;
     max-width: 1300px;
+    background:white;
 }
-#header{width:100%;}
+#header{
+  width:90%;
+  margin: 0px auto 0px auto;
+  padding-top:2.5%;
+}
+
 #nav_container{
   width:75%;
   float:left;
   height:125px;}
-
+#nav_accent{
+    width:10%;
+    float:left;
+}
 #content_column{
   clear:left;
   float:left;
