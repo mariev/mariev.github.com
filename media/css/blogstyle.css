@@ -2,7 +2,7 @@ body {
   padding-top: 30px;
   padding-bottom:30px;
   margin:auto;
-  background-image:url('http://mariev.net/media/images/TT16s.png');
+ /* background-image:url('http://mariev.net/media/images/TT16s.png');*/
 
 }
 
@@ -17,7 +17,7 @@ body {
   list-style:none;
   font-family:Jura, Helvetica, sans-serif;
   font-weight:bold;
-  font-size:1.2em;
+  font-size:2em;
   float:left;
   margin-right: 1%;
   margin-left:1%;
@@ -32,7 +32,7 @@ body {
  font-size:1.2em;
  width:80%;
  margin:auto;
- height:1.2em;
+ height:1.8em;
 }
 
 
@@ -59,7 +59,7 @@ body {
 
 .brand p{
   font-family: 'Rock Salt';
-  font-size: 2em;
+  font-size: 2.5em;
   margin-left:2.5%;
   margin-top:0;
   margin-bottom:10px;
@@ -73,7 +73,7 @@ body {
   list-style:none;
   font-family:Jura, Helvetica, sans-serif;
   font-weight:bold;
-  font-size:1.2em;
+  font-size:1.75em;
   float:left;
   margin-right: 1%;
   margin-left:1%;
@@ -112,7 +112,7 @@ body {
 
 .widget_name{
   font-family:'Rock Salt';
-  font-size:1em;
+  font-size:1.25em;
   color:white;
   margin:0;
   height:2em;
