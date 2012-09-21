@@ -1,6 +1,7 @@
 body {
   padding:30px;
   min-width:975px;
+  width: 95%;
   background: rgb(225, 225, 225);
  /*background-image:url('http://mariev.net/media/images/TT16s.png');*/
 
@@ -182,7 +183,7 @@ ol{
     padding-top:20px;
 }
 #header{
-  width:90%;
+  width:75%;
   margin: 0px auto 0px auto;
   
 }
@@ -208,7 +209,7 @@ ol{
   clear:left;
   float:left;
   min-width:630px;
-  width:82%;
+  width:63%;
   opacity:.95;
   margin:0px auto 0px auto;
 }
