@@ -1,15 +1,14 @@
 body {
-  padding-top: 30px;
-  padding-bottom:30px;
-  margin:auto;
+  padding:30px;
+  min-width:975px;
  /* background-image:url('http://mariev.net/media/images/TT16s.png');*/
 
 }
 
 .nav {
   float:left;
-  width: 100%;
-  padding-top:0px;
+  width: 88%;
+  padding-right:7.5%;
 
 }
 
@@ -17,8 +16,10 @@ body {
   list-style:none;
   font-family:Jura, Helvetica, sans-serif;
   font-weight:bold;
-  font-size:2em;
+  font-size:1.25em;
   float:left;
+  padding-left:0.5%;
+  padding-right:0.5%;
 }
 
 .nav ul{
@@ -27,7 +28,7 @@ body {
  float:left;
  padding:6px 10px 5px 10px; 
  background:white; 
- font-size:1.2em;
+ font-size:1.25em;
  width:80%;
  margin:auto;
  height:1.8em;
@@ -52,7 +53,6 @@ body {
 .brand{
   font-family: 'Rock Salt';
   float: left;
-  width:25%;
 }  
 
 .brand p{
@@ -84,7 +84,7 @@ body {
  font-size:1.2em;
  width:70%;
 
- margin:auto;
+ margin:0px 0px 0px 350px;
  height:1.2em;
 }
 
@@ -343,7 +343,7 @@ height:310px;
 }
 
 .main{
-    width:61%;
+    width:64%;
  }
  .main .mainMask, .main .content,
  .view .mask, .view .content{
@@ -352,7 +352,7 @@ height:310px;
   }
   
  .view{
-     width:30%;
+     width:31%;
  }
  
 
