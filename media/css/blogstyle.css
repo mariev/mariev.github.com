@@ -150,8 +150,10 @@ body {
 }
 
 #ramblings {
-  font-family:'PT Serif', Georgia, serif;
-  font-size:14px;
+font-family: 'PT Serif', Georgia, serif;
+font-size: 14px;
+width: 60%;
+min-width: 650px;
 }
   
 #ramblings h1{
@@ -183,20 +185,20 @@ ol{
     padding-top:20px;
 }
 #header{
-  width:100%;
-  margin: 0px auto 0px auto;
+width: 950px;
+margin: 2% auto 0 auto;
   
 }
 
 #bulk{
-  width:90%;
+  width:950px;
   margin:0px auto 0px auto;
 }
 
 #nav_container{
   width:50%;
   float:left;
-  margin-top:20px;}
+}
   
 /*#nav_accent{
     width:20%;
