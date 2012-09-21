@@ -67,7 +67,7 @@ body {
   list-style:none;
   font-family:Jura, Helvetica, sans-serif;
   font-weight:bold;
-  font-size:1.75em;
+
   float:left;
   margin-right: 1%;
   margin-left:1%;
@@ -88,7 +88,6 @@ body {
 .connect a, .connect a:link, .connect a:hover, .connect a:active{
     color:rgb(150,150,150);
     text-decoration:none;
-    font-size:.7em;
 
 }
 
