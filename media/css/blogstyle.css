@@ -1,7 +1,7 @@
 body {
   padding:30px;
   min-width:975px;
-  background-image:url('http://mariev.net/media/images/TT16s.png');
+ /*background-image:url('http://mariev.net/media/images/TT16s.png');*/
 
 }
 
@@ -16,8 +16,8 @@ body {
   font-weight:bold;
   font-size:1.25em;
   float:left;
-  padding-left:1.5%;
-  padding-right:1.5%;
+  padding-left:3.5%;
+  padding-right:3.5%;
 }
 
 .nav ul{
@@ -49,7 +49,7 @@ body {
 .brand{
   font-family: 'Rock Salt';
   float: left;
-  width:20%;
+  width:30%;
 }  
 
 .brand p{
@@ -180,7 +180,7 @@ ol{
 }
 
 #nav_container{
-  width:80%;
+  width:70%;
   float:left;
   height:125px;}
   
