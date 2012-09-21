@@ -19,8 +19,6 @@ body {
   font-weight:bold;
   font-size:2em;
   float:left;
-  margin-right: 1%;
-  margin-left:1%;
 }
 
 .nav ul{
@@ -46,7 +44,8 @@ body {
 .nav a, .nav a:active{
   text-decoration: none;
   padding:10px;
-  color: black;
+  color: rgb(150,150,150
+  );
 
 }
 
@@ -63,7 +62,6 @@ body {
   margin-left:2.5%;
   margin-top:0;
   margin-bottom:10px;
-  color: white;
   line-height:125%;
 }
 
@@ -169,8 +167,9 @@ ol{
 
 #page_container{
     width:90%;
-    margin:0px 5% 0px 5%;
+    margin:0px auto 0px auto;
     min-width:975px;
+    max-width: 1300px;
 }
 #header{width:100%;}
 #nav_container{
