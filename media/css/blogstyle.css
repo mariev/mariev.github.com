@@ -53,6 +53,7 @@ body {
 .brand{
   font-family: 'Rock Salt';
   float: left;
+  width:20%;
 }  
 
 .brand p{
@@ -178,12 +179,14 @@ ol{
 }
 
 #nav_container{
-  width:75%;
+  width:60%;
   float:left;
   height:125px;}
+  
 #nav_accent{
-    width:10%;
+    width:20%;
     float:left;
+    
 }
 #content_column{
   clear:left;
