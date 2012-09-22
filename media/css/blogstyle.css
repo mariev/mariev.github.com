@@ -171,6 +171,7 @@ ol{
 
 #ramblings a:active{
   fontsize: 14px;
+  text-transform:none;
 }
 
 #ramblings a:hover{
