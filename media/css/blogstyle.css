@@ -173,6 +173,10 @@ ol{
   fontsize: 14px;
 }
 
+#ramblings a:hover{
+text-transform:none;
+}
+
 #ramblings img{
 }
 
