@@ -154,12 +154,13 @@ font-family: 'PT Serif', Georgia, serif;
 font-size: 14px;
 width: 60%;
 min-width: 650px;
+float: left;
 }
   
-#ramblings h1{
+#ramblings h2{
   font-family:'Jura', 'Helvetica', sans-serif;
   margin:0;
-  font-size:1em;
+  font-size:1.2em;
 }
 
 ol{
@@ -194,8 +195,10 @@ margin: 2% auto 0 auto;
 }
 
 #bulk{
-  width:950px;
-  margin:0px auto 0px auto;
+width: 950px;
+margin: 0px auto 0px auto;
+clear: left;
+padding-top: 10px;
 }
 
 #nav_container{
