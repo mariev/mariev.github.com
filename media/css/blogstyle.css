@@ -196,6 +196,10 @@ text-transform:none;
 width: 100%;
 }
 
+#ramblings ol, #ramblings ul{
+float:left;
+}
+
 #ramblings figcaption{
     text-align:center;
     font-size:.8em;
