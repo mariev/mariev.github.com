@@ -167,6 +167,13 @@ line-height: 2em;
 color: #323232;
 }
 
+#ramblings h1{
+font-family: 'Jura', 'Helvetica', sans-serif;
+margin: 0;
+font-size: 1.7em;
+line-height: 2.1em;
+color: #323232;
+}
 ol{
   padding-left:5%;
 }
