@@ -196,7 +196,7 @@ text-transform:none;
 width: 100%;
 }
 
-#ramblings ol, #ramblings ul{
+ ol,  ul{
 float:left;
 }
 
