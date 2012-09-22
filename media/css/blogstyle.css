@@ -125,6 +125,8 @@ line-height: 2em;
 
 text-align: center;
 padding: 15px;
+background-repeat: no-repeat;
+background-size: 300px;
 }
 
 .widget_name a, .widget_name a:active{
