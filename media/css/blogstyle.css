@@ -288,12 +288,12 @@ color:rgb(0,180,180);
 
 }
 #footer{
-  clear:left;
-  width:75%;
-  padding:0 1.5% 0 1.5%;
-  margin:0;
-  background:white;
-  font-size:.75em;
+font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+color: rgb(101,101,101);
+background: rgb(240,240,240);
+font-size: .75em;
+padding: 3px;
+font-weight: 200;
 }
 
 #footer p{
