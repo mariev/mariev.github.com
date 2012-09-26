@@ -204,14 +204,13 @@ ol{
   padding-left:5%;
 }
 
-#ramblings a:active, #ramblings a, #ramblings a:active, #ramblings a:visited{
-  font-size: 14px;
+#ramblings a,  #ramblings a:visited{
   color: rgb(101,101,101);
   text-decoration:none;
 }
 
-#ramblings a:hover{
-text-transform:none;
+#ramblings a:hover, #ramblings a:active,{
+color: rgb(0, 180,180);
 }
 
 #ramblings img{
