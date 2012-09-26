@@ -129,16 +129,21 @@ text-decoration:none;
 
 
 .widget_name{
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
-  font-weight:200;
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
+font-weight: 400;
 font-size: 1.25em;
 margin: 10px 10px 10px 10px;
 line-height: 2em;
 text-align: center;
+
 padding: 15px;
 background-repeat: no-repeat;
 background-size: 300px;
-    background:#eeeeee;
+background: #eeeeee;
+border: rgb(0,180,180);
+border-style: dashed;
+border-width: 2px;
+}
 }
 
 .widget_name a, .widget_name a:active{
@@ -148,7 +153,6 @@ background-size: 300px;
   color:black;
   
 }
-
 
 .post_title{
   font-family:'JuraLight', 'Helvetica', sans-serif;
@@ -180,11 +184,11 @@ font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 margin: 10px 0 10px 0;
 font-size: 1.5em;
 line-height: 2em;
-font-weight: 100;
+font-weight: 200;
 background: rgb(240,240,240);
-padding-left: 10px;
+padding-left: 2%;
 text-transform:uppercase;
-width:100%;
+width:98%;
 }
 
   
@@ -273,10 +277,11 @@ margin-top: 20px;
 #right_column a, #right_column a:visited{
   color:black;
   text-decoration:none;
+  text-transform:lowercase;
 }
 
 #right_column a:hover{
-color:rgb(0, 180, 180);
+color:black;
 text-decoration:none;
 }
 #footer{
