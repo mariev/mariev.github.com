@@ -35,9 +35,8 @@ body {
 
 
 .nav a:hover{
-  background:#eeeeee;
   height:1.8em;
-  
+  color: rgb(0, 180, 180);  
   
 }
 
@@ -263,12 +262,12 @@ width: 28%;
 margin-top: 20px;
 }
 
-#right_column a{
+#right_column a, #right_column a:visited{
   color:black;
   text-decoration:none;
 }
 
-#right_column a:hover, #right_column a:visited{
+#right_column a:hover{
 color:rgb(0, 180, 180);
 text-decoration:none;
 }
