@@ -186,7 +186,6 @@ font-size: 1.75em;
 line-height: 2em;
 font-weight: 100;
 
-padding-left: 2%;
 text-transform:uppercase;
 width:98%;
 }
@@ -319,3 +318,7 @@ margin: 0px 5% 0px 5%;
 
 }
 
+hr{
+    background-color:rgb(200,200,200);
+    height:1px;
+}
