@@ -49,7 +49,7 @@ body {
 
 
 .brand{
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'CabinSketch', 'Helvetica', 'Arial', sans-serif;
   font-weight:300;
   float: left;
   width:45%;
@@ -57,7 +57,7 @@ body {
 }  
 
 .brand p{
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'CabinSketch', 'Helvetica', 'Arial', sans-serif;
   font-weight:300;
   font-size: 2.5em;
   margin-left:0;
@@ -303,3 +303,17 @@ color:rgb(0,180,180);
 width:90%;
 margin: 0px 5% 0px 5%;
 }
+
+
+@font-face {
+    font-family: 'CabinSketch';
+    src: url('http://mariev.net/media/font/CabinSketch-Regular-webfont.eot');
+    src: url('http://mariev.net/media/font/CabinSketch-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/CabinSketch-Regular-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/CabinSketch-Regular-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/CabinSketch-Regular-webfont.svg#CabinSketchRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
