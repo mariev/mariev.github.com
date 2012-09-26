@@ -132,25 +132,20 @@ text-decoration:none;
 font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
 font-weight: 100;
 font-size: 1.75em;
-margin: 10px 10px 10px 10px;
+margin: 10px 10px 10px 60px;
 line-height: 2em;
-text-align: center;
+
 padding: .5%;
-background-repeat: no-repeat;
-background-size: 300px;
-background: #eeeeee;
-border: rgb(200,200,200);
-border-style: solid;
-border-width: 1px;
-border-radius: 40px;
+
 }
-}
+
 
 .widget_name a, .widget_name a:active{
   text-decoration:none;
   height:2em;
 
   color:black;
+
   
 }
 
@@ -284,6 +279,7 @@ margin-top: 20px;
 
 text-decoration:none;
 color:rgb(0,180,180);
+background:rgb(200,200,200);
 }
 #footer{
   clear:left;
