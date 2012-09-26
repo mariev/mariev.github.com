@@ -281,9 +281,152 @@ margin: 0px 5% 0px 5%;
 }
 
 
-@font-face{
-font-family: 'Rock Salt';
-src: local('☺'), url('http://mariev.net/media/font/RockSalt.ttf') format('truetype');
+@font-face {
+    font-family: 'RockSaltRegular';
+   
+    src: url('http://mariev.net/media/font/RockSalt-webfont.eot');
+    src: local('Rock Salt Regular'), local('RockSaltRegular'), url('http://mariev.net/media/font/RockSalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/RockSalt-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/RockSalt-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/RockSalt-webfont.svg#RockSaltRegular') format('svg');
     font-weight: normal;
     font-style: normal;
+
 }
+
+
+@font-face {
+    font-family: 'PTSerifRegular';
+    src: url('http://mariev.net/media/font/PTF55F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTF55F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTF55F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTF55F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTF55F-webfont.svg#PTSerifRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifItalic';
+    src: url('http://mariev.net/media/font/PTF56F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTF56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTF56F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTF56F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTF56F-webfont.svg#PTSerifItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifBold';
+    src: url('http://mariev.net/media/font/PTF75F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTF75F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTF75F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTF75F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTF75F-webfont.svg#PTSerifBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifBoldItalic';
+    src: url('http://mariev.net/media/font/PTF76F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTF76F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTF76F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTF76F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTF76F-webfont.svg#PTSerifBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifCaptionRegular';
+    src: url('http://mariev.net/media/font/PTZ55F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTZ55F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTZ55F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTZ55F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTZ55F-webfont.svg#PTSerifCaptionRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifCaptionItalic';
+    src: url('http://mariev.net/media/font/PTZ56F-webfont.eot');
+    src: url('http://mariev.net/media/font/PTZ56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/PTZ56F-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/PTZ56F-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/PTZ56F-webfont.svg#PTSerifCaptionItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'waiting_for_the_sunriseRg';
+    src: url('http://mariev.net/media/font/waitingforthesunrise-webfont.eot');
+    src: url('http://mariev.net/media/font/waitingforthesunrise-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/waitingforthesunrise-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/waitingforthesunrise-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/waitingforthesunrise-webfont.svg#waiting_for_the_sunriseRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'JuraLight';
+    src: url('http://mariev.net/media/font/Jura-Light-webfont.eot');
+    src: url('http://mariev.net/media/font/Jura-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/Jura-Light-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/Jura-Light-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/Jura-Light-webfont.svg#JuraLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'JuraBook';
+    src: url('http://mariev.net/media/font/Jura-Regular-webfont.eot');
+    src: url('http://mariev.net/media/font/Jura-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/Jura-Regular-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/Jura-Regular-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/Jura-Regular-webfont.svg#JuraBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'JuraMedium';
+    src: url('http://mariev.net/media/font/Jura-Medium-webfont.eot');
+    src: url('http://mariev.net/media/font/Jura-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/Jura-Medium-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/Jura-Medium-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/Jura-Medium-webfont.svg#JuraMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'JuraDemiBold';
+    src: url('http://mariev.net/media/font/Jura-DemiBold-webfont.eot');
+    src: url('http://mariev.net/media/font/Jura-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariev.net/media/font/Jura-DemiBold-webfont.woff') format('woff'),
+         url('http://mariev.net/media/font/Jura-DemiBold-webfont.ttf') format('truetype'),
+         url('http://mariev.net/media/font/Jura-DemiBold-webfont.svg#JuraDemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
