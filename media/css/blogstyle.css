@@ -71,7 +71,7 @@ text-decoration:none;
 }
 
 .brand2 p{
-  font-family: 'Rock Salt';
+  font-family: 'RockSaltRegular';
   font-size: .5em;
   margin-left: 2.5%;
   margin-top:0;
@@ -125,7 +125,7 @@ text-decoration:none;
 
 
 .widget_name{
-font-family: 'Rock Salt';
+font-family: 'RockSaltRegular';
 font-size: 1.25em;
 margin: 10px 10px 10px 10px;
 line-height: 2em;
