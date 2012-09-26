@@ -149,6 +149,7 @@ padding: .5%;
   
 }
 
+
 .post_title{
   font-family:'JuraLight', 'Helvetica', sans-serif;
 
@@ -280,6 +281,7 @@ margin-top: 20px;
 text-decoration:none;
 color:rgb(0,180,180);
 background:rgb(200,200,200);
+
 }
 #footer{
   clear:left;
