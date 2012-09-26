@@ -43,7 +43,7 @@ body {
 .nav a, .nav a:active{
   text-decoration: none;
   padding:10px;
-  color: rgb(150,150,150);
+  color: rgb(0,180,180);
 
 }
 
@@ -168,7 +168,7 @@ font-size: 14px;
 width: 60%;
 min-width: 650px;
 float: left;
-margin: 0px auto 0px auto;
+margin: 20px auto 0px auto;
 }
 
 #ramblings p{
@@ -176,12 +176,18 @@ float:left;
 }
   
 #ramblings h2{
-font-family: 'Helvetica Neue', sans-serif;
-margin: 0;
-font-size: 1.3em;
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+margin: 10px 0 10px 0;
+font-size: 1.5em;
 line-height: 2em;
-color: rgb(0,180,180);
-font-weight: 400;
+font-weight: 100;
+background: rgb(240,240,240);
+padding-left: 10px;
+text-transform:uppercase;
+}
+
+  
+#ramblings h2:hover{
 }
 
 #ramblings h1{
