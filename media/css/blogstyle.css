@@ -166,12 +166,12 @@ padding: .5%;
 }
 
 #ramblings {
-font-family: 'PTSerifRegular', Georgia, serif;
-font-size: 14px;
+font-family: 'Helvetica Neue','Helvetica', Georgia, serif;
+font-size: 1em;
 width: 60%;
 min-width: 650px;
 float: left;
-margin: 20px auto 0px auto;
+margin: 0px auto 0px auto;
 }
 
 #ramblings p{
