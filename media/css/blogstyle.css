@@ -283,7 +283,7 @@ margin: 0px 5% 0px 5%;
 
 @font-face{
 font-family: 'Rock Salt';
-src: local('☺'), url('mariev.net/media/font/RockSalt.ttf');
+src: local('☺'), url('http://mariev.net/media/font/RockSalt.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
