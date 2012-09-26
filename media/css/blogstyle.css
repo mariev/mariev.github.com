@@ -187,7 +187,7 @@ text-transform:uppercase;
 }
 
   
-#ramblings h2:hover{
+#ramblings a:hover{
 color:rgb(0,180,180);
 
 }
