@@ -277,13 +277,13 @@ margin-top: 20px;
 #right_column a, #right_column a:visited{
   text-decoration:none;
   text-transform:lowercase;
-  color: rgb(0,180,180);
+  color: black;
 }
 
 #right_column a:hover{
 color:black;
 text-decoration:none;
-border:black;
+border:rgb(0,180,180);
 }
 #footer{
   clear:left;
