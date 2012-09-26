@@ -269,7 +269,7 @@ margin-top: 20px;
 }
 
 #right_column a:hover, #right_column a:visited{
-color:rgb(0, 180, 180)
+color:rgb(0, 180, 180);
 text-decoration:none;
 }
 #footer{
