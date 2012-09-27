@@ -55,3 +55,9 @@ float: left;
 width: 20%;
 text-align: center;
 }
+
+#categories a{
+text-decoration: none;
+font-size: .75em;
+color: rgb(101,101,101);
+}
