@@ -223,7 +223,7 @@ color: rgb(0, 180,180);
 }
 
 #ramblings img{
-width: 100%;
+max-width: 100%;
 }
 
  ol,  ul{
