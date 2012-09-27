@@ -49,3 +49,7 @@ letter-spacing: 2.5px;
 #categories ul, #categories ol{
     width:100%;
 }
+
+#categories li{
+    float:left;
+}
