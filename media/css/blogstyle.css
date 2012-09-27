@@ -329,7 +329,7 @@ hr{
 }
 
 .categories, .participate{
-float: left;
+float: right;
 margin-left: 30px;
 margin-top: 10px;
 
