@@ -18,23 +18,27 @@ body {
 
 #mainnav{
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    height: 2.5em;
+    float: left;
+    font-size: 1.9em;
+    margin: 0;
 }
 
 #brand{
 width: 20%;
 text-align: right;
-font-size: 1.9em;
+
 color: rgb(101,101,101);
 font-weight: 100;
 text-transform: uppercase;
 letter-spacing:2.5px;
-float:left;
-height:2.5em;
+
 }
 
 #categories{
-    height:2.5em;
+
 }
+
 #categories li, #categories ul{
     list-style:none;
     float:left;
