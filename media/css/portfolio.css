@@ -1,13 +1,18 @@
 body {
-
+  margin:0;
   min-width:975px;
   width: 95%;
  }
  
- #topnav{
+#topnav{
     width:100%;
     min-height:20px;
     height: 5%;
     
+}
+
+#mainblock{
+    width:1050px;
+    margin:0 auto 0 auto;
 }
 
