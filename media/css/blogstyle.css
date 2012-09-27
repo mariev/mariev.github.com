@@ -336,12 +336,12 @@ font-family: 'Jura';
 font-size: 1.5em;
 }
 
-.categories a, .categories a:active{
+#right_column .categories a, #right_column .categories a:active{
 color:rgb(0,180,180);
 text-decoration:none;
 }
 
-.categories a:hover{
+#right_column .categories a:hover{
  color:rgb(255,153,0);
  text-decoration:none;
 }
