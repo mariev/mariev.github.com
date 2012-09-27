@@ -114,7 +114,8 @@ text-decoration:none;
 }
 
 .connect a:hover{
-  text-decoration:underline;
+  
+   color:rgb(255,153,0)
  }
 
 .connect{
@@ -130,10 +131,10 @@ text-decoration:none;
 
 
 .widget_name{
-font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
+font-family: 'Jura','Courier New', monospace;
 font-weight: 100;
 font-size: 1.75em;
-margin: 10px 10px 10px 60px;
+margin: 10px 10px 10px 50px;
 line-height: 2em;
 
 padding: .5%;
