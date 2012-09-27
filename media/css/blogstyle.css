@@ -327,7 +327,7 @@ hr{
     height:1px;
 }
 
-#categories{
+.categories{
 float: left;
 margin-left: 30px;
 margin-top: 10px;
@@ -336,12 +336,12 @@ font-family: 'Jura';
 font-size: 1.5em;
 }
 
-#categories a, #categories a:active{
+.categories a, .categories a:active{
 color:rgb(0,180,180);
 text-decoration:none;
 }
 
-#categories a:hover{
+.categories a:hover{
  color:rgb(255,153,0);
  text-decoration:none;
 }
