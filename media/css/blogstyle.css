@@ -349,4 +349,15 @@ text-decoration:none;
 
 #copyright{
     text-align:center;
+    font-family:'CabinSketch', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+#copyright a, #copyright a:active, #copyright a:visited{
+    color: rgb(255,153,0);
+    text-decoration:none;
+}
+
+#copyright a:hover{
+    text-decoration:none;
+    color: rgb(180,180,0);
 }
