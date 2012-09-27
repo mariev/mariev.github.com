@@ -346,3 +346,7 @@ text-decoration:none;
  color:rgb(255,153,0);
  text-decoration:none;
 }
+
+#copyright{
+    text-align:center;
+}
