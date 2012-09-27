@@ -186,9 +186,9 @@ font-size: .85em;
 #ramblings h2{
 font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
-font-size: 1.75em;
+font-size: 1.25em;
 line-height: 2em;
-font-weight: 100;
+font-weight: 200;
 margin-top:0;
 text-transform:uppercase;
 width:98%;
@@ -337,12 +337,12 @@ font-family: 'Jura';
 font-size: 1.25em;
 }
 
-#right_column .categories a, #right_column .categories a:active, #right_column .categories a:visited{
+#right_column .categories a, #right_column .categories a:active, #right_column .categories a:visited, #right_column .archiveName a, #right_column .archiveName a:visited, #right_column .archiveName a:active{
 color:rgb(0,180,180);
 text-decoration:none;
 }
 
-#right_column .categories a:hover{
+#right_column .categories a:hover, #right_column .archiveName a:hover{
  color:rgb(255,153,0);
  text-decoration:none;
 }
