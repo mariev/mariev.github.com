@@ -3,4 +3,11 @@ body {
   min-width:975px;
   width: 95%;
  }
+ 
+ #topnav{
+    width:100%;
+    min-height:20px;
+    height: 5%;
+    
+}
 
