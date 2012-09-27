@@ -51,5 +51,7 @@ letter-spacing: 2.5px;
 }
 
 #categories li{
-    float:left;
+float: left;
+width: 20%;
+text-align: center;
 }
