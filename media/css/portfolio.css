@@ -16,10 +16,30 @@ body {
     margin:0 auto 0 auto;
 }
 
-#mainnav{
-    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-    height: 2.5em;
-    float: left;
-    font-size: 1.9em;
-    margin: 0;
+#mainnav {
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+height: 2.5em;
+float: left;
+font-size: 1.9em;
+margin: 0;
+width: 100%;
+}
+
+#brand {
+width: 20%;
+text-align: right;
+float: left;
+color: rgb(101,101,101);
+font-weight: 100;
+text-transform: uppercase;
+letter-spacing: 2.5px;
+}
+
+#categories{
+    width:80%;
+    float:left;
+}
+
+#categories ul, #categories ol{
+    list-style:none;
 }
