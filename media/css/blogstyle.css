@@ -328,7 +328,7 @@ hr{
     height:1px;
 }
 
-.categories{
+.categories, .participate{
 float: left;
 margin-left: 30px;
 margin-top: 10px;
