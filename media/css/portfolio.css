@@ -40,6 +40,12 @@ letter-spacing: 2.5px;
     float:left;
 }
 
-#categories ul, #categories ol{
+#categories ul, #categories ol, #categories li
+{
     list-style:none;
+    float:left;
+}
+
+#categories ul, #categories ol{
+    width:100%;
 }
