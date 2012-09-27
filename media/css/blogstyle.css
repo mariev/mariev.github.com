@@ -298,6 +298,7 @@ background: rgb(240,240,240);
 font-size: .75em;
 padding: 3px;
 font-weight: 200;
+clear:left;
 }
 
 #footer p{
