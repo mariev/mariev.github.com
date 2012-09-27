@@ -176,7 +176,10 @@ margin: 0px auto 0px auto;
 }
 
 #ramblings p{
-float:left;
+float: left;
+color: rgb(100,100,100);
+font-weight: 200;
+font-size: .85em;
 }
   
 #ramblings h2{
