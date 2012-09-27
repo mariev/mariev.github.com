@@ -337,12 +337,12 @@ font-family: 'Jura';
 font-size: 1.25em;
 }
 
-#right_column .categories a, #right_column .categories a:active, #right_column .categories a:visited, #right_column .archiveName a, #right_column .archiveName a:visited, #right_column .archiveName a:active{
+#right_column .categories a, #right_column .categories a:active, #right_column .categories a:visited, #ramblings li #archiveName a, #ramblings li #archiveName a:visited, #ramblings li #archiveName a:active{
 color:rgb(0,180,180);
 text-decoration:none;
 }
 
-#right_column .categories a:hover, #right_column .archiveName a:hover{
+#right_column .categories a:hover, #ramblings li #archiveName a:hover{
  color:rgb(255,153,0);
  text-decoration:none;
 }
