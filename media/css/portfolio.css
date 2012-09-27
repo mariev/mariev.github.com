@@ -28,12 +28,14 @@ color: rgb(101,101,101);
 font-weight: 100;
 text-transform: uppercase;
 letter-spacing:2.5px;
+float:left;
+height:2.5em;
 }
 
+#categories{
+    height:2.5em;
+}
 #categories li, #categories ul{
     list-style:none;
-}
-
-#categories li{
     float:left;
 }
