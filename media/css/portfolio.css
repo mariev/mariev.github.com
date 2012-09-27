@@ -23,23 +23,3 @@ body {
     font-size: 1.9em;
     margin: 0;
 }
-
-#brand{
-width: 20%;
-text-align: right;
-
-color: rgb(101,101,101);
-font-weight: 100;
-text-transform: uppercase;
-letter-spacing:2.5px;
-
-}
-
-#categories{
-
-}
-
-#categories li, #categories ul{
-    list-style:none;
-    float:left;
-}
