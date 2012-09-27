@@ -67,3 +67,8 @@ color: rgb(101,101,101);
 color:rgb(255,153,0);
 text-decoration:none;
 }
+hr{
+height: 0;
+border-top: 1px;
+border-color: rgb(200, 200,200);
+}
