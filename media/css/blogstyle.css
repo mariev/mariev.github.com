@@ -213,8 +213,8 @@ ol{
   padding-left:5%;
 }
 
-#ramblings a,  #ramblings a:visited{
-  color: rgb(101,101,101);
+#ramblings a, {
+  color:  rgb(255,153,0);
   text-decoration:none;
 }
 
