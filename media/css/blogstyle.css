@@ -230,6 +230,7 @@ max-width: 100%;
 
  ol,  ul{
 float:left;
+color:rgb(100,100,100);
 }
 
 #ramblings figcaption{
