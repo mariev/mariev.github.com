@@ -366,3 +366,7 @@ text-decoration:none;
     text-decoration:none;
     color: rgb(0,180,180);
 }
+
+#summary a{
+    color:red;
+}
