@@ -367,6 +367,6 @@ text-decoration:none;
     color: rgb(0,180,180);
 }
 
-#summary a{
+#summary a h2{
     color:red;
 }
